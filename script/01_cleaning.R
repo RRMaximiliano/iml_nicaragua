@@ -5,7 +5,7 @@ library(tidyverse)
 library(readxl)
 
 # Read data ---------------------------------------------------------------
-project <- file.path("D:/Documents/Datos/iml nicaragua")
+project <- file.path("D:/Documents/GitHub/iml_nicaragua")
 data    <- file.path(project, "data")
   
 iml_raw <- read_excel(file.path(data, "raw", "raw_iml.xlsx")) %>% 
@@ -30,7 +30,6 @@ iml <- iml_raw %>%
   arrange(year, circunscripcion) %>% 
   filter(tipologia != "total")
   
-
 # Save data ---------------------------------------------------------------
 
 iml %>% 

@@ -1,0 +1,856 @@
+year,circunscripcion,tipologia,casos
+2014,Acoyapa,lesiones fisicas,172
+2014,Acoyapa,lesiones psiquicas,215
+2014,Acoyapa,violencia dentro de la familia,70
+2014,Acoyapa,violencia sexual,80
+2014,Acoyapa,peritacion tanatologica,29
+2014,Bilwi,lesiones fisicas,802
+2014,Bilwi,lesiones psiquicas,312
+2014,Bilwi,violencia dentro de la familia,326
+2014,Bilwi,violencia sexual,148
+2014,Bilwi,peritacion tanatologica,43
+2014,Bluefields,lesiones fisicas,409
+2014,Bluefields,lesiones psiquicas,355
+2014,Bluefields,violencia dentro de la familia,170
+2014,Bluefields,violencia sexual,165
+2014,Bluefields,peritacion tanatologica,40
+2014,Boaco,lesiones fisicas,476
+2014,Boaco,lesiones psiquicas,255
+2014,Boaco,violencia dentro de la familia,235
+2014,Boaco,violencia sexual,180
+2014,Boaco,peritacion tanatologica,56
+2014,Chinandega,lesiones fisicas,926
+2014,Chinandega,lesiones psiquicas,1009
+2014,Chinandega,violencia dentro de la familia,407
+2014,Chinandega,violencia sexual,380
+2014,Chinandega,peritacion tanatologica,83
+2014,Ciudad Sandino,lesiones fisicas,668
+2014,Ciudad Sandino,lesiones psiquicas,NA
+2014,Ciudad Sandino,violencia dentro de la familia,300
+2014,Ciudad Sandino,violencia sexual,148
+2014,Ciudad Sandino,peritacion tanatologica,NA
+2014,Diriamba,lesiones fisicas,981
+2014,Diriamba,lesiones psiquicas,NA
+2014,Diriamba,violencia dentro de la familia,423
+2014,Diriamba,violencia sexual,84
+2014,Diriamba,peritacion tanatologica,28
+2014,El Rama,lesiones fisicas,249
+2014,El Rama,lesiones psiquicas,NA
+2014,El Rama,violencia dentro de la familia,73
+2014,El Rama,violencia sexual,93
+2014,El Rama,peritacion tanatologica,34
+2014,El Viejo,lesiones fisicas,277
+2014,El Viejo,lesiones psiquicas,NA
+2014,El Viejo,violencia dentro de la familia,124
+2014,El Viejo,violencia sexual,76
+2014,El Viejo,peritacion tanatologica,39
+2014,Estelí,lesiones fisicas,911
+2014,Estelí,lesiones psiquicas,636
+2014,Estelí,violencia dentro de la familia,273
+2014,Estelí,violencia sexual,213
+2014,Estelí,peritacion tanatologica,99
+2014,Granada,lesiones fisicas,1262
+2014,Granada,lesiones psiquicas,86
+2014,Granada,violencia dentro de la familia,395
+2014,Granada,violencia sexual,231
+2014,Granada,peritacion tanatologica,63
+2014,Jinotega,lesiones fisicas,701
+2014,Jinotega,lesiones psiquicas,397
+2014,Jinotega,violencia dentro de la familia,143
+2014,Jinotega,violencia sexual,246
+2014,Jinotega,peritacion tanatologica,94
+2014,Jinotepe,lesiones fisicas,621
+2014,Jinotepe,lesiones psiquicas,268
+2014,Jinotepe,violencia dentro de la familia,211
+2014,Jinotepe,violencia sexual,90
+2014,Jinotepe,peritacion tanatologica,35
+2014,Juigalpa,lesiones fisicas,382
+2014,Juigalpa,lesiones psiquicas,228
+2014,Juigalpa,violencia dentro de la familia,143
+2014,Juigalpa,violencia sexual,223
+2014,Juigalpa,peritacion tanatologica,37
+2014,Las Minas,lesiones fisicas,195
+2014,Las Minas,lesiones psiquicas,NA
+2014,Las Minas,violencia dentro de la familia,115
+2014,Las Minas,violencia sexual,162
+2014,Las Minas,peritacion tanatologica,74
+2014,León,lesiones fisicas,1069
+2014,León,lesiones psiquicas,582
+2014,León,violencia dentro de la familia,454
+2014,León,violencia sexual,365
+2014,León,peritacion tanatologica,91
+2014,Managua,lesiones fisicas,6011
+2014,Managua,lesiones psiquicas,6806
+2014,Managua,violencia dentro de la familia,3080
+2014,Managua,violencia sexual,1367
+2014,Managua,peritacion tanatologica,525
+2014,Masatepe,lesiones fisicas,578
+2014,Masatepe,lesiones psiquicas,NA
+2014,Masatepe,violencia dentro de la familia,161
+2014,Masatepe,violencia sexual,54
+2014,Masatepe,peritacion tanatologica,16
+2014,Masaya,lesiones fisicas,1558
+2014,Masaya,lesiones psiquicas,NA
+2014,Masaya,violencia dentro de la familia,566
+2014,Masaya,violencia sexual,403
+2014,Masaya,peritacion tanatologica,65
+2014,Matagalpa,lesiones fisicas,1318
+2014,Matagalpa,lesiones psiquicas,438
+2014,Matagalpa,violencia dentro de la familia,327
+2014,Matagalpa,violencia sexual,444
+2014,Matagalpa,peritacion tanatologica,200
+2014,Nueva Guinea,lesiones fisicas,224
+2014,Nueva Guinea,lesiones psiquicas,NA
+2014,Nueva Guinea,violencia dentro de la familia,57
+2014,Nueva Guinea,violencia sexual,60
+2014,Nueva Guinea,peritacion tanatologica,33
+2014,Ocotal,lesiones fisicas,447
+2014,Ocotal,lesiones psiquicas,131
+2014,Ocotal,violencia dentro de la familia,101
+2014,Ocotal,violencia sexual,98
+2014,Ocotal,peritacion tanatologica,39
+2014,Rivas,lesiones fisicas,660
+2014,Rivas,lesiones psiquicas,NA
+2014,Rivas,violencia dentro de la familia,330
+2014,Rivas,violencia sexual,204
+2014,Rivas,peritacion tanatologica,77
+2014,San Carlos,lesiones fisicas,251
+2014,San Carlos,lesiones psiquicas,85
+2014,San Carlos,violencia dentro de la familia,129
+2014,San Carlos,violencia sexual,176
+2014,San Carlos,peritacion tanatologica,26
+2014,San Rafael del Sur,lesiones fisicas,211
+2014,San Rafael del Sur,lesiones psiquicas,NA
+2014,San Rafael del Sur,violencia dentro de la familia,79
+2014,San Rafael del Sur,violencia sexual,24
+2014,San Rafael del Sur,peritacion tanatologica,NA
+2014,Somoto,lesiones fisicas,385
+2014,Somoto,lesiones psiquicas,150
+2014,Somoto,violencia dentro de la familia,101
+2014,Somoto,violencia sexual,113
+2014,Somoto,peritacion tanatologica,34
+2014,Tipitapa,lesiones fisicas,591
+2014,Tipitapa,lesiones psiquicas,63
+2014,Tipitapa,violencia dentro de la familia,175
+2014,Tipitapa,violencia sexual,164
+2014,Tipitapa,peritacion tanatologica,NA
+2014,Waspán,lesiones fisicas,172
+2014,Waspán,lesiones psiquicas,NA
+2014,Waspán,violencia dentro de la familia,99
+2014,Waspán,violencia sexual,61
+2014,Waspán,peritacion tanatologica,10
+2015,Acoyapa,lesiones fisicas,85
+2015,Acoyapa,lesiones psiquicas,116
+2015,Acoyapa,violencia dentro de la familia,18
+2015,Acoyapa,violencia sexual,35
+2015,Acoyapa,peritacion tanatologica,19
+2015,Bluefields,lesiones fisicas,379
+2015,Bluefields,lesiones psiquicas,346
+2015,Bluefields,violencia dentro de la familia,151
+2015,Bluefields,violencia sexual,145
+2015,Bluefields,peritacion tanatologica,44
+2015,Boaco,lesiones fisicas,652
+2015,Boaco,lesiones psiquicas,270
+2015,Boaco,violencia dentro de la familia,220
+2015,Boaco,violencia sexual,191
+2015,Boaco,peritacion tanatologica,55
+2015,Chinandega,lesiones fisicas,1656
+2015,Chinandega,lesiones psiquicas,677
+2015,Chinandega,violencia dentro de la familia,467
+2015,Chinandega,violencia sexual,332
+2015,Chinandega,peritacion tanatologica,90
+2015,Ciudad Sandino,lesiones fisicas,759
+2015,Ciudad Sandino,lesiones psiquicas,0
+2015,Ciudad Sandino,violencia dentro de la familia,252
+2015,Ciudad Sandino,violencia sexual,107
+2015,Ciudad Sandino,peritacion tanatologica,0
+2015,Diriamba,lesiones fisicas,1081
+2015,Diriamba,lesiones psiquicas,0
+2015,Diriamba,violencia dentro de la familia,326
+2015,Diriamba,violencia sexual,97
+2015,Diriamba,peritacion tanatologica,38
+2015,El Rama,lesiones fisicas,306
+2015,El Rama,lesiones psiquicas,0
+2015,El Rama,violencia dentro de la familia,67
+2015,El Rama,violencia sexual,108
+2015,El Rama,peritacion tanatologica,41
+2015,El Viejo,lesiones fisicas,277
+2015,El Viejo,lesiones psiquicas,0
+2015,El Viejo,violencia dentro de la familia,111
+2015,El Viejo,violencia sexual,71
+2015,El Viejo,peritacion tanatologica,44
+2015,Estelí,lesiones fisicas,1023
+2015,Estelí,lesiones psiquicas,480
+2015,Estelí,violencia dentro de la familia,251
+2015,Estelí,violencia sexual,193
+2015,Estelí,peritacion tanatologica,92
+2015,Granada,lesiones fisicas,1413
+2015,Granada,lesiones psiquicas,461
+2015,Granada,violencia dentro de la familia,449
+2015,Granada,violencia sexual,191
+2015,Granada,peritacion tanatologica,76
+2015,Jinotega,lesiones fisicas,959
+2015,Jinotega,lesiones psiquicas,244
+2015,Jinotega,violencia dentro de la familia,152
+2015,Jinotega,violencia sexual,213
+2015,Jinotega,peritacion tanatologica,104
+2015,Jinotepe,lesiones fisicas,692
+2015,Jinotepe,lesiones psiquicas,177
+2015,Jinotepe,violencia dentro de la familia,219
+2015,Jinotepe,violencia sexual,81
+2015,Jinotepe,peritacion tanatologica,28
+2015,Juigalpa,lesiones fisicas,526
+2015,Juigalpa,lesiones psiquicas,325
+2015,Juigalpa,violencia dentro de la familia,139
+2015,Juigalpa,violencia sexual,145
+2015,Juigalpa,peritacion tanatologica,28
+2015,Las Minas,lesiones fisicas,319
+2015,Las Minas,lesiones psiquicas,0
+2015,Las Minas,violencia dentro de la familia,139
+2015,Las Minas,violencia sexual,179
+2015,Las Minas,peritacion tanatologica,71
+2015,León,lesiones fisicas,1759
+2015,León,lesiones psiquicas,535
+2015,León,violencia dentro de la familia,474
+2015,León,violencia sexual,318
+2015,León,peritacion tanatologica,118
+2015,Managua,lesiones fisicas,8217
+2015,Managua,lesiones psiquicas,7793
+2015,Managua,violencia dentro de la familia,3022
+2015,Managua,violencia sexual,1403
+2015,Managua,peritacion tanatologica,575
+2015,Masatepe,lesiones fisicas,628
+2015,Masatepe,lesiones psiquicas,0
+2015,Masatepe,violencia dentro de la familia,219
+2015,Masatepe,violencia sexual,140
+2015,Masatepe,peritacion tanatologica,17
+2015,Masaya,lesiones fisicas,2052
+2015,Masaya,lesiones psiquicas,70
+2015,Masaya,violencia dentro de la familia,580
+2015,Masaya,violencia sexual,327
+2015,Masaya,peritacion tanatologica,72
+2015,Matagalpa,lesiones fisicas,1555
+2015,Matagalpa,lesiones psiquicas,551
+2015,Matagalpa,violencia dentro de la familia,253
+2015,Matagalpa,violencia sexual,359
+2015,Matagalpa,peritacion tanatologica,212
+2015,Nueva Guinea,lesiones fisicas,345
+2015,Nueva Guinea,lesiones psiquicas,0
+2015,Nueva Guinea,violencia dentro de la familia,93
+2015,Nueva Guinea,violencia sexual,77
+2015,Nueva Guinea,peritacion tanatologica,20
+2015,Ocotal,lesiones fisicas,503
+2015,Ocotal,lesiones psiquicas,142
+2015,Ocotal,violencia dentro de la familia,98
+2015,Ocotal,violencia sexual,139
+2015,Ocotal,peritacion tanatologica,47
+2015,Puerto Cabezas,lesiones fisicas,688
+2015,Puerto Cabezas,lesiones psiquicas,291
+2015,Puerto Cabezas,violencia dentro de la familia,222
+2015,Puerto Cabezas,violencia sexual,98
+2015,Puerto Cabezas,peritacion tanatologica,44
+2015,Rivas,lesiones fisicas,1035
+2015,Rivas,lesiones psiquicas,79
+2015,Rivas,violencia dentro de la familia,302
+2015,Rivas,violencia sexual,143
+2015,Rivas,peritacion tanatologica,92
+2015,San Carlos,lesiones fisicas,264
+2015,San Carlos,lesiones psiquicas,128
+2015,San Carlos,violencia dentro de la familia,133
+2015,San Carlos,violencia sexual,223
+2015,San Carlos,peritacion tanatologica,31
+2015,San Rafael del Sur,lesiones fisicas,240
+2015,San Rafael del Sur,lesiones psiquicas,0
+2015,San Rafael del Sur,violencia dentro de la familia,81
+2015,San Rafael del Sur,violencia sexual,16
+2015,San Rafael del Sur,peritacion tanatologica,0
+2015,Somoto,lesiones fisicas,429
+2015,Somoto,lesiones psiquicas,133
+2015,Somoto,violencia dentro de la familia,111
+2015,Somoto,violencia sexual,101
+2015,Somoto,peritacion tanatologica,31
+2015,Tipitapa,lesiones fisicas,735
+2015,Tipitapa,lesiones psiquicas,181
+2015,Tipitapa,violencia dentro de la familia,189
+2015,Tipitapa,violencia sexual,132
+2015,Tipitapa,peritacion tanatologica,0
+2015,Waspán,lesiones fisicas,165
+2015,Waspán,lesiones psiquicas,0
+2015,Waspán,violencia dentro de la familia,85
+2015,Waspán,violencia sexual,32
+2015,Waspán,peritacion tanatologica,15
+2016,Acoyapa,lesiones fisicas,233
+2016,Acoyapa,lesiones psiquicas,150
+2016,Acoyapa,violencia dentro de la familia,34
+2016,Acoyapa,violencia sexual,52
+2016,Acoyapa,peritacion tanatologica,23
+2016,Bluefields,lesiones fisicas,477
+2016,Bluefields,lesiones psiquicas,458
+2016,Bluefields,violencia dentro de la familia,151
+2016,Bluefields,violencia sexual,134
+2016,Bluefields,peritacion tanatologica,49
+2016,Boaco,lesiones fisicas,681
+2016,Boaco,lesiones psiquicas,305
+2016,Boaco,violencia dentro de la familia,129
+2016,Boaco,violencia sexual,128
+2016,Boaco,peritacion tanatologica,47
+2016,Chinandega,lesiones fisicas,1167
+2016,Chinandega,lesiones psiquicas,875
+2016,Chinandega,violencia dentro de la familia,404
+2016,Chinandega,violencia sexual,163
+2016,Chinandega,peritacion tanatologica,86
+2016,Ciudad Sandino,lesiones fisicas,302
+2016,Ciudad Sandino,lesiones psiquicas,236
+2016,Ciudad Sandino,violencia dentro de la familia,102
+2016,Ciudad Sandino,violencia sexual,18
+2016,Ciudad Sandino,peritacion tanatologica,0
+2016,Diriamba,lesiones fisicas,1289
+2016,Diriamba,lesiones psiquicas,0
+2016,Diriamba,violencia dentro de la familia,393
+2016,Diriamba,violencia sexual,107
+2016,Diriamba,peritacion tanatologica,29
+2016,El Rama,lesiones fisicas,331
+2016,El Rama,lesiones psiquicas,0
+2016,El Rama,violencia dentro de la familia,58
+2016,El Rama,violencia sexual,79
+2016,El Rama,peritacion tanatologica,42
+2016,El Viejo,lesiones fisicas,492
+2016,El Viejo,lesiones psiquicas,110
+2016,El Viejo,violencia dentro de la familia,149
+2016,El Viejo,violencia sexual,110
+2016,El Viejo,peritacion tanatologica,58
+2016,Estelí,lesiones fisicas,1040
+2016,Estelí,lesiones psiquicas,433
+2016,Estelí,violencia dentro de la familia,233
+2016,Estelí,violencia sexual,161
+2016,Estelí,peritacion tanatologica,117
+2016,Granada,lesiones fisicas,1707
+2016,Granada,lesiones psiquicas,880
+2016,Granada,violencia dentro de la familia,437
+2016,Granada,violencia sexual,216
+2016,Granada,peritacion tanatologica,74
+2016,Jinotega,lesiones fisicas,1080
+2016,Jinotega,lesiones psiquicas,646
+2016,Jinotega,violencia dentro de la familia,236
+2016,Jinotega,violencia sexual,272
+2016,Jinotega,peritacion tanatologica,111
+2016,Jinotepe,lesiones fisicas,744
+2016,Jinotepe,lesiones psiquicas,515
+2016,Jinotepe,violencia dentro de la familia,191
+2016,Jinotepe,violencia sexual,76
+2016,Jinotepe,peritacion tanatologica,46
+2016,Juigalpa,lesiones fisicas,873
+2016,Juigalpa,lesiones psiquicas,310
+2016,Juigalpa,violencia dentro de la familia,106
+2016,Juigalpa,violencia sexual,131
+2016,Juigalpa,peritacion tanatologica,54
+2016,Las Minas,lesiones fisicas,326
+2016,Las Minas,lesiones psiquicas,0
+2016,Las Minas,violencia dentro de la familia,144
+2016,Las Minas,violencia sexual,177
+2016,Las Minas,peritacion tanatologica,70
+2016,León,lesiones fisicas,1820
+2016,León,lesiones psiquicas,1381
+2016,León,violencia dentro de la familia,533
+2016,León,violencia sexual,324
+2016,León,peritacion tanatologica,122
+2016,Managua,lesiones fisicas,9478
+2016,Managua,lesiones psiquicas,5493
+2016,Managua,violencia dentro de la familia,2947
+2016,Managua,violencia sexual,1212
+2016,Managua,peritacion tanatologica,521
+2016,Masatepe,lesiones fisicas,737
+2016,Masatepe,lesiones psiquicas,74
+2016,Masatepe,violencia dentro de la familia,44
+2016,Masatepe,violencia sexual,66
+2016,Masatepe,peritacion tanatologica,8
+2016,Masaya,lesiones fisicas,2632
+2016,Masaya,lesiones psiquicas,804
+2016,Masaya,violencia dentro de la familia,541
+2016,Masaya,violencia sexual,290
+2016,Masaya,peritacion tanatologica,110
+2016,Matagalpa,lesiones fisicas,1687
+2016,Matagalpa,lesiones psiquicas,691
+2016,Matagalpa,violencia dentro de la familia,334
+2016,Matagalpa,violencia sexual,360
+2016,Matagalpa,peritacion tanatologica,220
+2016,Nueva Guinea,lesiones fisicas,299
+2016,Nueva Guinea,lesiones psiquicas,0
+2016,Nueva Guinea,violencia dentro de la familia,49
+2016,Nueva Guinea,violencia sexual,65
+2016,Nueva Guinea,peritacion tanatologica,23
+2016,Ocotal,lesiones fisicas,529
+2016,Ocotal,lesiones psiquicas,141
+2016,Ocotal,violencia dentro de la familia,90
+2016,Ocotal,violencia sexual,120
+2016,Ocotal,peritacion tanatologica,50
+2016,Puerto Cabezas,lesiones fisicas,833
+2016,Puerto Cabezas,lesiones psiquicas,471
+2016,Puerto Cabezas,violencia dentro de la familia,264
+2016,Puerto Cabezas,violencia sexual,139
+2016,Puerto Cabezas,peritacion tanatologica,58
+2016,Rivas,lesiones fisicas,955
+2016,Rivas,lesiones psiquicas,287
+2016,Rivas,violencia dentro de la familia,137
+2016,Rivas,violencia sexual,153
+2016,Rivas,peritacion tanatologica,88
+2016,San Carlos,lesiones fisicas,318
+2016,San Carlos,lesiones psiquicas,252
+2016,San Carlos,violencia dentro de la familia,121
+2016,San Carlos,violencia sexual,170
+2016,San Carlos,peritacion tanatologica,31
+2016,San Rafael del Sur,lesiones fisicas,464
+2016,San Rafael del Sur,lesiones psiquicas,0
+2016,San Rafael del Sur,violencia dentro de la familia,9
+2016,San Rafael del Sur,violencia sexual,41
+2016,San Rafael del Sur,peritacion tanatologica,0
+2016,Somoto,lesiones fisicas,444
+2016,Somoto,lesiones psiquicas,199
+2016,Somoto,violencia dentro de la familia,90
+2016,Somoto,violencia sexual,88
+2016,Somoto,peritacion tanatologica,35
+2016,Tipitapa,lesiones fisicas,369
+2016,Tipitapa,lesiones psiquicas,200
+2016,Tipitapa,violencia dentro de la familia,66
+2016,Tipitapa,violencia sexual,62
+2016,Tipitapa,peritacion tanatologica,0
+2016,Waspán,lesiones fisicas,152
+2016,Waspán,lesiones psiquicas,0
+2016,Waspán,violencia dentro de la familia,55
+2016,Waspán,violencia sexual,27
+2016,Waspán,peritacion tanatologica,8
+2017,Acoyapa,lesiones fisicas,175
+2017,Acoyapa,lesiones psiquicas,131
+2017,Acoyapa,violencia dentro de la familia,40
+2017,Acoyapa,violencia sexual,56
+2017,Acoyapa,peritacion tanatologica,36
+2017,Bluefields,lesiones fisicas,382
+2017,Bluefields,lesiones psiquicas,433
+2017,Bluefields,violencia dentro de la familia,156
+2017,Bluefields,violencia sexual,150
+2017,Bluefields,peritacion tanatologica,40
+2017,Boaco,lesiones fisicas,540
+2017,Boaco,lesiones psiquicas,358
+2017,Boaco,violencia dentro de la familia,149
+2017,Boaco,violencia sexual,129
+2017,Boaco,peritacion tanatologica,46
+2017,Chinandega,lesiones fisicas,994
+2017,Chinandega,lesiones psiquicas,1027
+2017,Chinandega,violencia dentro de la familia,479
+2017,Chinandega,violencia sexual,222
+2017,Chinandega,peritacion tanatologica,66
+2017,Ciudad Sandino,lesiones fisicas,715
+2017,Ciudad Sandino,lesiones psiquicas,432
+2017,Ciudad Sandino,violencia dentro de la familia,308
+2017,Ciudad Sandino,violencia sexual,119
+2017,Ciudad Sandino,peritacion tanatologica,0
+2017,Diriamba,lesiones fisicas,821
+2017,Diriamba,lesiones psiquicas,0
+2017,Diriamba,violencia dentro de la familia,377
+2017,Diriamba,violencia sexual,67
+2017,Diriamba,peritacion tanatologica,37
+2017,El Rama,lesiones fisicas,282
+2017,El Rama,lesiones psiquicas,0
+2017,El Rama,violencia dentro de la familia,75
+2017,El Rama,violencia sexual,73
+2017,El Rama,peritacion tanatologica,23
+2017,El Viejo,lesiones fisicas,491
+2017,El Viejo,lesiones psiquicas,853
+2017,El Viejo,violencia dentro de la familia,227
+2017,El Viejo,violencia sexual,150
+2017,El Viejo,peritacion tanatologica,72
+2017,Estelí,lesiones fisicas,896
+2017,Estelí,lesiones psiquicas,599
+2017,Estelí,violencia dentro de la familia,318
+2017,Estelí,violencia sexual,180
+2017,Estelí,peritacion tanatologica,123
+2017,Granada,lesiones fisicas,1377
+2017,Granada,lesiones psiquicas,731
+2017,Granada,violencia dentro de la familia,479
+2017,Granada,violencia sexual,215
+2017,Granada,peritacion tanatologica,70
+2017,Jinotega,lesiones fisicas,1007
+2017,Jinotega,lesiones psiquicas,694
+2017,Jinotega,violencia dentro de la familia,250
+2017,Jinotega,violencia sexual,250
+2017,Jinotega,peritacion tanatologica,117
+2017,Jinotepe,lesiones fisicas,729
+2017,Jinotepe,lesiones psiquicas,477
+2017,Jinotepe,violencia dentro de la familia,212
+2017,Jinotepe,violencia sexual,69
+2017,Jinotepe,peritacion tanatologica,42
+2017,Juigalpa,lesiones fisicas,568
+2017,Juigalpa,lesiones psiquicas,337
+2017,Juigalpa,violencia dentro de la familia,101
+2017,Juigalpa,violencia sexual,127
+2017,Juigalpa,peritacion tanatologica,45
+2017,Las Minas,lesiones fisicas,316
+2017,Las Minas,lesiones psiquicas,0
+2017,Las Minas,violencia dentro de la familia,133
+2017,Las Minas,violencia sexual,181
+2017,Las Minas,peritacion tanatologica,81
+2017,León,lesiones fisicas,1644
+2017,León,lesiones psiquicas,1068
+2017,León,violencia dentro de la familia,508
+2017,León,violencia sexual,263
+2017,León,peritacion tanatologica,132
+2017,Managua,lesiones fisicas,7568
+2017,Managua,lesiones psiquicas,5176
+2017,Managua,violencia dentro de la familia,2595
+2017,Managua,violencia sexual,1069
+2017,Managua,peritacion tanatologica,505
+2017,Masatepe,lesiones fisicas,739
+2017,Masatepe,lesiones psiquicas,306
+2017,Masatepe,violencia dentro de la familia,155
+2017,Masatepe,violencia sexual,117
+2017,Masatepe,peritacion tanatologica,9
+2017,Masaya,lesiones fisicas,1734
+2017,Masaya,lesiones psiquicas,697
+2017,Masaya,violencia dentro de la familia,489
+2017,Masaya,violencia sexual,201
+2017,Masaya,peritacion tanatologica,112
+2017,Matagalpa,lesiones fisicas,1485
+2017,Matagalpa,lesiones psiquicas,856
+2017,Matagalpa,violencia dentro de la familia,311
+2017,Matagalpa,violencia sexual,395
+2017,Matagalpa,peritacion tanatologica,196
+2017,Nandaime,lesiones fisicas,37
+2017,Nandaime,lesiones psiquicas,0
+2017,Nandaime,violencia dentro de la familia,11
+2017,Nandaime,violencia sexual,9
+2017,Nandaime,peritacion tanatologica,0
+2017,Nueva Guinea,lesiones fisicas,231
+2017,Nueva Guinea,lesiones psiquicas,0
+2017,Nueva Guinea,violencia dentro de la familia,57
+2017,Nueva Guinea,violencia sexual,59
+2017,Nueva Guinea,peritacion tanatologica,41
+2017,Ocotal,lesiones fisicas,494
+2017,Ocotal,lesiones psiquicas,214
+2017,Ocotal,violencia dentro de la familia,89
+2017,Ocotal,violencia sexual,90
+2017,Ocotal,peritacion tanatologica,54
+2017,Puerto Cabezas,lesiones fisicas,864
+2017,Puerto Cabezas,lesiones psiquicas,540
+2017,Puerto Cabezas,violencia dentro de la familia,282
+2017,Puerto Cabezas,violencia sexual,164
+2017,Puerto Cabezas,peritacion tanatologica,50
+2017,Rivas,lesiones fisicas,1669
+2017,Rivas,lesiones psiquicas,170
+2017,Rivas,violencia dentro de la familia,194
+2017,Rivas,violencia sexual,123
+2017,Rivas,peritacion tanatologica,104
+2017,San Carlos,lesiones fisicas,328
+2017,San Carlos,lesiones psiquicas,295
+2017,San Carlos,violencia dentro de la familia,125
+2017,San Carlos,violencia sexual,155
+2017,San Carlos,peritacion tanatologica,42
+2017,San Rafael del Sur,lesiones fisicas,351
+2017,San Rafael del Sur,lesiones psiquicas,0
+2017,San Rafael del Sur,violencia dentro de la familia,59
+2017,San Rafael del Sur,violencia sexual,15
+2017,San Rafael del Sur,peritacion tanatologica,0
+2017,Somoto,lesiones fisicas,865
+2017,Somoto,lesiones psiquicas,276
+2017,Somoto,violencia dentro de la familia,88
+2017,Somoto,violencia sexual,82
+2017,Somoto,peritacion tanatologica,55
+2017,Tipitapa,lesiones fisicas,710
+2017,Tipitapa,lesiones psiquicas,334
+2017,Tipitapa,violencia dentro de la familia,190
+2017,Tipitapa,violencia sexual,99
+2017,Tipitapa,peritacion tanatologica,0
+2017,Waspán,lesiones fisicas,185
+2017,Waspán,lesiones psiquicas,0
+2017,Waspán,violencia dentro de la familia,74
+2017,Waspán,violencia sexual,38
+2017,Waspán,peritacion tanatologica,13
+2018,Acoyapa,lesiones fisicas,188
+2018,Acoyapa,lesiones psiquicas,103
+2018,Acoyapa,violencia dentro de la familia,29
+2018,Acoyapa,violencia sexual,48
+2018,Acoyapa,peritacion tanatologica,25
+2018,Bluefields,lesiones fisicas,361
+2018,Bluefields,lesiones psiquicas,313
+2018,Bluefields,violencia dentro de la familia,120
+2018,Bluefields,violencia sexual,108
+2018,Bluefields,peritacion tanatologica,50
+2018,Boaco,lesiones fisicas,641
+2018,Boaco,lesiones psiquicas,313
+2018,Boaco,violencia dentro de la familia,190
+2018,Boaco,violencia sexual,92
+2018,Boaco,peritacion tanatologica,48
+2018,Chinandega,lesiones fisicas,1542
+2018,Chinandega,lesiones psiquicas,1518
+2018,Chinandega,violencia dentro de la familia,682
+2018,Chinandega,violencia sexual,295
+2018,Chinandega,peritacion tanatologica,147
+2018,Ciudad Sandino,lesiones fisicas,721
+2018,Ciudad Sandino,lesiones psiquicas,442
+2018,Ciudad Sandino,violencia dentro de la familia,350
+2018,Ciudad Sandino,violencia sexual,102
+2018,Ciudad Sandino,peritacion tanatologica,0
+2018,Diriamba,lesiones fisicas,731
+2018,Diriamba,lesiones psiquicas,0
+2018,Diriamba,violencia dentro de la familia,212
+2018,Diriamba,violencia sexual,45
+2018,Diriamba,peritacion tanatologica,20
+2018,El Rama,lesiones fisicas,259
+2018,El Rama,lesiones psiquicas,0
+2018,El Rama,violencia dentro de la familia,68
+2018,El Rama,violencia sexual,58
+2018,El Rama,peritacion tanatologica,27
+2018,Estelí,lesiones fisicas,1132
+2018,Estelí,lesiones psiquicas,559
+2018,Estelí,violencia dentro de la familia,302
+2018,Estelí,violencia sexual,133
+2018,Estelí,peritacion tanatologica,103
+2018,Granada,lesiones fisicas,1034
+2018,Granada,lesiones psiquicas,755
+2018,Granada,violencia dentro de la familia,377
+2018,Granada,violencia sexual,145
+2018,Granada,peritacion tanatologica,64
+2018,Jinotega,lesiones fisicas,850
+2018,Jinotega,lesiones psiquicas,696
+2018,Jinotega,violencia dentro de la familia,178
+2018,Jinotega,violencia sexual,261
+2018,Jinotega,peritacion tanatologica,86
+2018,Jinotepe,lesiones fisicas,701
+2018,Jinotepe,lesiones psiquicas,375
+2018,Jinotepe,violencia dentro de la familia,209
+2018,Jinotepe,violencia sexual,92
+2018,Jinotepe,peritacion tanatologica,37
+2018,Juigalpa,lesiones fisicas,743
+2018,Juigalpa,lesiones psiquicas,275
+2018,Juigalpa,violencia dentro de la familia,51
+2018,Juigalpa,violencia sexual,114
+2018,Juigalpa,peritacion tanatologica,38
+2018,Las Minas,lesiones fisicas,366
+2018,Las Minas,lesiones psiquicas,149
+2018,Las Minas,violencia dentro de la familia,167
+2018,Las Minas,violencia sexual,164
+2018,Las Minas,peritacion tanatologica,76
+2018,Las Segovias,lesiones fisicas,2123
+2018,Las Segovias,lesiones psiquicas,1215
+2018,Las Segovias,violencia dentro de la familia,521
+2018,Las Segovias,violencia sexual,322
+2018,Las Segovias,peritacion tanatologica,202
+2018,León,lesiones fisicas,1285
+2018,León,lesiones psiquicas,928
+2018,León,violencia dentro de la familia,447
+2018,León,violencia sexual,216
+2018,León,peritacion tanatologica,115
+2018,Managua,lesiones fisicas,7593
+2018,Managua,lesiones psiquicas,4120
+2018,Managua,violencia dentro de la familia,2248
+2018,Managua,violencia sexual,888
+2018,Managua,peritacion tanatologica,637
+2018,Masatepe,lesiones fisicas,675
+2018,Masatepe,lesiones psiquicas,32
+2018,Masatepe,violencia dentro de la familia,86
+2018,Masatepe,violencia sexual,80
+2018,Masatepe,peritacion tanatologica,18
+2018,Masaya,lesiones fisicas,1116
+2018,Masaya,lesiones psiquicas,771
+2018,Masaya,violencia dentro de la familia,352
+2018,Masaya,violencia sexual,137
+2018,Masaya,peritacion tanatologica,76
+2018,Matagalpa,lesiones fisicas,1157
+2018,Matagalpa,lesiones psiquicas,738
+2018,Matagalpa,violencia dentro de la familia,275
+2018,Matagalpa,violencia sexual,366
+2018,Matagalpa,peritacion tanatologica,191
+2018,Nandaime,lesiones fisicas,230
+2018,Nandaime,lesiones psiquicas,0
+2018,Nandaime,violencia dentro de la familia,103
+2018,Nandaime,violencia sexual,34
+2018,Nandaime,peritacion tanatologica,7
+2018,Nueva Guinea,lesiones fisicas,226
+2018,Nueva Guinea,lesiones psiquicas,0
+2018,Nueva Guinea,violencia dentro de la familia,73
+2018,Nueva Guinea,violencia sexual,36
+2018,Nueva Guinea,peritacion tanatologica,23
+2018,Ocotal,lesiones fisicas,478
+2018,Ocotal,lesiones psiquicas,286
+2018,Ocotal,violencia dentro de la familia,95
+2018,Ocotal,violencia sexual,106
+2018,Ocotal,peritacion tanatologica,47
+2018,Puerto Cabezas,lesiones fisicas,891
+2018,Puerto Cabezas,lesiones psiquicas,547
+2018,Puerto Cabezas,violencia dentro de la familia,227
+2018,Puerto Cabezas,violencia sexual,108
+2018,Puerto Cabezas,peritacion tanatologica,31
+2018,Rivas,lesiones fisicas,845
+2018,Rivas,lesiones psiquicas,442
+2018,Rivas,violencia dentro de la familia,274
+2018,Rivas,violencia sexual,127
+2018,Rivas,peritacion tanatologica,79
+2018,San Carlos,lesiones fisicas,324
+2018,San Carlos,lesiones psiquicas,278
+2018,San Carlos,violencia dentro de la familia,113
+2018,San Carlos,violencia sexual,131
+2018,San Carlos,peritacion tanatologica,36
+2018,San Rafael del Sur,lesiones fisicas,290
+2018,San Rafael del Sur,lesiones psiquicas,0
+2018,San Rafael del Sur,violencia dentro de la familia,47
+2018,San Rafael del Sur,violencia sexual,5
+2018,San Rafael del Sur,peritacion tanatologica,0
+2018,Somoto,lesiones fisicas,513
+2018,Somoto,lesiones psiquicas,370
+2018,Somoto,violencia dentro de la familia,124
+2018,Somoto,violencia sexual,83
+2018,Somoto,peritacion tanatologica,52
+2018,Tipitapa,lesiones fisicas,641
+2018,Tipitapa,lesiones psiquicas,276
+2018,Tipitapa,violencia dentro de la familia,155
+2018,Tipitapa,violencia sexual,61
+2018,Tipitapa,peritacion tanatologica,0
+2018,Waspán,lesiones fisicas,181
+2018,Waspán,lesiones psiquicas,0
+2018,Waspán,violencia dentro de la familia,75
+2018,Waspán,violencia sexual,50
+2018,Waspán,peritacion tanatologica,10
+2019,Acoyapa,lesiones fisicas,169
+2019,Acoyapa,lesiones psiquicas,155
+2019,Acoyapa,violencia dentro de la familia,38
+2019,Acoyapa,violencia sexual,45
+2019,Acoyapa,peritacion tanatologica,23
+2019,Bluefields,lesiones fisicas,272
+2019,Bluefields,lesiones psiquicas,304
+2019,Bluefields,violencia dentro de la familia,115
+2019,Bluefields,violencia sexual,133
+2019,Bluefields,peritacion tanatologica,55
+2019,Boaco,lesiones fisicas,565
+2019,Boaco,lesiones psiquicas,370
+2019,Boaco,violencia dentro de la familia,180
+2019,Boaco,violencia sexual,144
+2019,Boaco,peritacion tanatologica,52
+2019,Chinandega,lesiones fisicas,1424
+2019,Chinandega,lesiones psiquicas,1497
+2019,Chinandega,violencia dentro de la familia,662
+2019,Chinandega,violencia sexual,307
+2019,Chinandega,peritacion tanatologica,129
+2019,Ciudad Sandino,lesiones fisicas,599
+2019,Ciudad Sandino,lesiones psiquicas,364
+2019,Ciudad Sandino,violencia dentro de la familia,243
+2019,Ciudad Sandino,violencia sexual,88
+2019,Ciudad Sandino,peritacion tanatologica,0
+2019,Diriamba,lesiones fisicas,959
+2019,Diriamba,lesiones psiquicas,87
+2019,Diriamba,violencia dentro de la familia,269
+2019,Diriamba,violencia sexual,63
+2019,Diriamba,peritacion tanatologica,49
+2019,El Rama,lesiones fisicas,255
+2019,El Rama,lesiones psiquicas,0
+2019,El Rama,violencia dentro de la familia,53
+2019,El Rama,violencia sexual,67
+2019,El Rama,peritacion tanatologica,32
+2019,Estelí,lesiones fisicas,1124
+2019,Estelí,lesiones psiquicas,596
+2019,Estelí,violencia dentro de la familia,289
+2019,Estelí,violencia sexual,123
+2019,Estelí,peritacion tanatologica,95
+2019,Granada,lesiones fisicas,907
+2019,Granada,lesiones psiquicas,962
+2019,Granada,violencia dentro de la familia,375
+2019,Granada,violencia sexual,154
+2019,Granada,peritacion tanatologica,67
+2019,Jinotega,lesiones fisicas,808
+2019,Jinotega,lesiones psiquicas,856
+2019,Jinotega,violencia dentro de la familia,256
+2019,Jinotega,violencia sexual,306
+2019,Jinotega,peritacion tanatologica,80
+2019,Jinotepe,lesiones fisicas,643
+2019,Jinotepe,lesiones psiquicas,305
+2019,Jinotepe,violencia dentro de la familia,152
+2019,Jinotepe,violencia sexual,72
+2019,Jinotepe,peritacion tanatologica,36
+2019,Juigalpa,lesiones fisicas,607
+2019,Juigalpa,lesiones psiquicas,307
+2019,Juigalpa,violencia dentro de la familia,110
+2019,Juigalpa,violencia sexual,114
+2019,Juigalpa,peritacion tanatologica,55
+2019,Las Minas,lesiones fisicas,357
+2019,Las Minas,lesiones psiquicas,313
+2019,Las Minas,violencia dentro de la familia,174
+2019,Las Minas,violencia sexual,170
+2019,Las Minas,peritacion tanatologica,82
+2019,León,lesiones fisicas,1418
+2019,León,lesiones psiquicas,767
+2019,León,violencia dentro de la familia,426
+2019,León,violencia sexual,292
+2019,León,peritacion tanatologica,105
+2019,Managua,lesiones fisicas,7719
+2019,Managua,lesiones psiquicas,4225
+2019,Managua,violencia dentro de la familia,242
+2019,Managua,violencia sexual,1073
+2019,Managua,peritacion tanatologica,508
+2019,Masatepe,lesiones fisicas,688
+2019,Masatepe,lesiones psiquicas,425
+2019,Masatepe,violencia dentro de la familia,231
+2019,Masatepe,violencia sexual,134
+2019,Masatepe,peritacion tanatologica,22
+2019,Masaya,lesiones fisicas,1109
+2019,Masaya,lesiones psiquicas,657
+2019,Masaya,violencia dentro de la familia,483
+2019,Masaya,violencia sexual,202
+2019,Masaya,peritacion tanatologica,83
+2019,Matagalpa,lesiones fisicas,1173
+2019,Matagalpa,lesiones psiquicas,649
+2019,Matagalpa,violencia dentro de la familia,254
+2019,Matagalpa,violencia sexual,320
+2019,Matagalpa,peritacion tanatologica,202
+2019,Nandaime,lesiones fisicas,246
+2019,Nandaime,lesiones psiquicas,0
+2019,Nandaime,violencia dentro de la familia,82
+2019,Nandaime,violencia sexual,30
+2019,Nandaime,peritacion tanatologica,2
+2019,Nueva Guinea,lesiones fisicas,232
+2019,Nueva Guinea,lesiones psiquicas,0
+2019,Nueva Guinea,violencia dentro de la familia,82
+2019,Nueva Guinea,violencia sexual,41
+2019,Nueva Guinea,peritacion tanatologica,23
+2019,Ocotal,lesiones fisicas,476
+2019,Ocotal,lesiones psiquicas,321
+2019,Ocotal,violencia dentro de la familia,115
+2019,Ocotal,violencia sexual,129
+2019,Ocotal,peritacion tanatologica,63
+2019,Puerto Cabezas,lesiones fisicas,829
+2019,Puerto Cabezas,lesiones psiquicas,599
+2019,Puerto Cabezas,violencia dentro de la familia,265
+2019,Puerto Cabezas,violencia sexual,131
+2019,Puerto Cabezas,peritacion tanatologica,43
+2019,Rivas,lesiones fisicas,846
+2019,Rivas,lesiones psiquicas,471
+2019,Rivas,violencia dentro de la familia,239
+2019,Rivas,violencia sexual,128
+2019,Rivas,peritacion tanatologica,92
+2019,San Carlos,lesiones fisicas,325
+2019,San Carlos,lesiones psiquicas,250
+2019,San Carlos,violencia dentro de la familia,119
+2019,San Carlos,violencia sexual,105
+2019,San Carlos,peritacion tanatologica,55
+2019,San Rafael del Sur,lesiones fisicas,291
+2019,San Rafael del Sur,lesiones psiquicas,0
+2019,San Rafael del Sur,violencia dentro de la familia,43
+2019,San Rafael del Sur,violencia sexual,1
+2019,San Rafael del Sur,peritacion tanatologica,0
+2019,Somoto,lesiones fisicas,431
+2019,Somoto,lesiones psiquicas,286
+2019,Somoto,violencia dentro de la familia,98
+2019,Somoto,violencia sexual,79
+2019,Somoto,peritacion tanatologica,51
+2019,Ticuantepe,lesiones fisicas,148
+2019,Ticuantepe,lesiones psiquicas,80
+2019,Ticuantepe,violencia dentro de la familia,44
+2019,Ticuantepe,violencia sexual,11
+2019,Ticuantepe,peritacion tanatologica,0
+2019,Tipitapa,lesiones fisicas,482
+2019,Tipitapa,lesiones psiquicas,286
+2019,Tipitapa,violencia dentro de la familia,239
+2019,Tipitapa,violencia sexual,80
+2019,Tipitapa,peritacion tanatologica,0
+2019,Waspán,lesiones fisicas,138
+2019,Waspán,lesiones psiquicas,0
+2019,Waspán,violencia dentro de la familia,81
+2019,Waspán,violencia sexual,25
+2019,Waspán,peritacion tanatologica,14

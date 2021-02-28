@@ -7,6 +7,7 @@ library(readxl)
 # Read data ---------------------------------------------------------------
 project <- file.path("D:/Documents/GitHub/iml_nicaragua")
 data    <- file.path(project, "data")
+figs    <- file.path(project, "figs")
   
 iml_raw <- read_excel(file.path(data, "raw", "raw_iml.xlsx")) %>% 
   janitor::clean_names()

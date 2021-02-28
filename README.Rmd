@@ -38,6 +38,11 @@ Las variables en esta base son:
 iml
 ```
 
+```{r, echo = FALSE}
+knitr::include_graphics("figs/peritajes.png")
+```
+
+
 ## Comentarios y sugerencias
 
 Para realizar comentarios o sugerencias sobre la base de datos puedes abrir un issue en este repositorio: [https://github.com/RRMaximiliano/iml_nicaragua/issues](https://github.com/RRMaximiliano/iml_nicaragua/issues)

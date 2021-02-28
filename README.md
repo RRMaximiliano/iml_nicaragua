@@ -32,6 +32,8 @@ iml
 #> # ... with 845 more rows
 ```
 
+<img src="figs/peritajes.png" width="100%" />
+
 ## Comentarios y sugerencias
 
 Para realizar comentarios o sugerencias sobre la base de datos puedes
